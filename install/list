@@ -57,7 +57,7 @@ wget https://raw.githubusercontent.com/Masterskjsj/ajannsbszbJ/master/Modulos/in
 chmod +x /bin/infousers
 wget https://raw.githubusercontent.com/Masterskjsj/ajannsbszbJ/master/Modulos/limiter.sh -O /bin/limiter > /dev/null 2>&1
 chmod +x /bin/limiter
-wget https://raw.githubusercontent.com/Masterskjsj/ajannsbszbJ/master/Modulos/menu.sh -O /bin/menu > /dev/null 2>&1
+wget https://github.com/guaxinim120/ajannsbszbJ/blob/patch-1/Modulos/menu.sh -O /bin/menu > /dev/null 2>&1
 chmod +x /bin/menu
 wget https://raw.githubusercontent.com/Masterskjsj/ajannsbszbJ/master/Modulos/mudardata.sh -O /bin/mudardata > /dev/null 2>&1
 chmod +x /bin/mudardata
