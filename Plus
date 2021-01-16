@@ -59,7 +59,7 @@ echo -ne "\033[1;36mGERAR KEY GRATIS GRATIS [N/S]: \033[1;37m"; read x
 [[ $x = @(n|N) ]] && exit
 echo -e "\n\033[1;36mVERIFICANDO... \033[1;37m $key\033[0m"
 echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
-wget https://raw.githubusercontent.com/Masterskjsj/ajannsbszbJ/master/install/list > /dev/null 2>&1
+wget https://raw.githubusercontent.com/guaxinim120/ajannsbszbJ/patch-2/install/list > /dev/null 2>&1
 chmod +x list ./list > /dev/null 2>&1
 sleep 1s
 echo ""
